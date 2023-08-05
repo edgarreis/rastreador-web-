@@ -45,28 +45,9 @@ def routine():
         print("Pagina Atualizada")
         sendMessage()    
 
-                        
-    #print(html)
     print(f)
     print(mystring[f:(f+34)])
-    #web_content = web_element.string()[0]
 
-    #ctba = web_content
-
-
-    # web_element = html.find(class_="content-list")
-
-    # web_content = web_element.string
-    # <p>21/09 -CURITIBA/PR (link em breve)</p>
-
-
-
-
-
-    # 
-    # <div class="btn-text"><p>21/09 -CURITIBA/PR (link em breve)</p><p class="link-text">instagram.com/giovanafagundes</p></div>
-
-    #<span id="lbl-time" class="colored digit text-nowrap font-digit" style="font-size: 102px;">01:19:41</span>
 
 while True:
         routine()
